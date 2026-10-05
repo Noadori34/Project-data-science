@@ -1,0 +1,7 @@
+Image filename: 598.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 417 135 52 24 9
+Bounding box 2: 300 164 57 38 2
+Bounding box 3: 380 160 63 26 2

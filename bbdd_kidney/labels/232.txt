@@ -1,0 +1,5 @@
+Image filename: 232.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 1
+Bounding box 1: 374 194 46 40 2

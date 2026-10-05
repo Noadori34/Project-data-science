@@ -1,0 +1,5 @@
+Image filename: 618.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 1
+Bounding box 1: 358 182 110 98 7

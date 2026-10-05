@@ -1,0 +1,6 @@
+Image filename: 134.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 286 124 85 75 2
+Bounding box 2: 353 110 57 60 2

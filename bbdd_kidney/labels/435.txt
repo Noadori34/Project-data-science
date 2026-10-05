@@ -1,0 +1,6 @@
+Image filename: 435.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 408 165 100 85 7
+Bounding box 2: 299 167 209 134 7

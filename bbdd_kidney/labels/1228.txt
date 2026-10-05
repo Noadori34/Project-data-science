@@ -1,0 +1,6 @@
+Image filename: 1228.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 348 228 89 62 7
+Bounding box 2: 462 160 42 44 2

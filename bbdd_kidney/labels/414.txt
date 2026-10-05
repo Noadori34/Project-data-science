@@ -1,0 +1,10 @@
+Image filename: 414.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 391 168 30 60 1
+Bounding box 2: 424 162 36 55 1
+Bounding box 3: 346 170 40 32 2
+Bounding box 4: 365 157 29 30 2
+Bounding box 5: 442 143 29 23 8
+Bounding box 6: 333 205 50 25 2

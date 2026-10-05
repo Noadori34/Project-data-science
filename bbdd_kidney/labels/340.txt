@@ -1,0 +1,8 @@
+Image filename: 340.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 416 166 60 64 2
+Bounding box 2: 340 160 51 63 2
+Bounding box 3: 466 149 47 59 2
+Bounding box 4: 308 211 47 51 2

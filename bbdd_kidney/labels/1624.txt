@@ -1,0 +1,5 @@
+Image filename: 1624.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 248 239 90 102 2

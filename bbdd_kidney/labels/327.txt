@@ -1,0 +1,7 @@
+Image filename: 327.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 450 187 21 41 4
+Bounding box 2: 377 183 28 31 4
+Bounding box 3: 346 191 35 37 4

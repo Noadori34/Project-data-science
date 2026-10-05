@@ -1,0 +1,8 @@
+Image filename: 723.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 498 135 77 68 2
+Bounding box 2: 281 172 75 74 2
+Bounding box 3: 328 168 76 98 2
+Bounding box 4: 403 161 49 32 8

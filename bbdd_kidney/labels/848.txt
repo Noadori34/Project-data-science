@@ -1,0 +1,8 @@
+Image filename: 848.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 346 165 50 46 2
+Bounding box 2: 413 165 59 47 2
+Bounding box 3: 370 196 41 44 2
+Bounding box 4: 338 197 50 67 2

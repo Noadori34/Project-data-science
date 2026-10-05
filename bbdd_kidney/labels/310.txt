@@ -1,0 +1,5 @@
+Image filename: 310.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 402 151 75 59 6

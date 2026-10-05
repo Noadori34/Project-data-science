@@ -1,0 +1,6 @@
+Image filename: 656.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 337 163 76 50 4
+Bounding box 2: 389 169 61 49 4

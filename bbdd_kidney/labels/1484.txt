@@ -1,0 +1,6 @@
+Image filename: 1484.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 374 225 30 22 2
+Bounding box 2: 335 222 32 32 2

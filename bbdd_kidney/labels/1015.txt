@@ -1,0 +1,6 @@
+Image filename: 1015.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 290 146 185 186 3
+Bounding box 2: 427 118 84 77 2

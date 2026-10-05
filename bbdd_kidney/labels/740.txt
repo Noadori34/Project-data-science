@@ -1,0 +1,7 @@
+Image filename: 740.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 236 211 87 72 2
+Bounding box 2: 309 140 82 44 7
+Bounding box 3: 312 189 130 64 7

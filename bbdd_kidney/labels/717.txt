@@ -1,0 +1,8 @@
+Image filename: 717.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 403 185 73 59 4
+Bounding box 2: 342 188 62 64 4
+Bounding box 3: 287 176 60 47 9
+Bounding box 4: 375 163 61 23 9

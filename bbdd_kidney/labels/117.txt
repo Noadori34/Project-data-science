@@ -1,0 +1,7 @@
+Image filename: 117.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 320 101 51 41 4
+Bounding box 2: 380 99 29 39 4
+Bounding box 3: 272 111 40 43 4

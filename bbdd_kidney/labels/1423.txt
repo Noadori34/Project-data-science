@@ -1,0 +1,4 @@
+Image filename: 1423.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 1

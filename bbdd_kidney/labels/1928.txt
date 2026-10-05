@@ -1,0 +1,7 @@
+Image filename: 1928.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 282 224 63 62 2
+Bounding box 2: 320 215 58 51 2
+Bounding box 3: 349 186 67 37 2

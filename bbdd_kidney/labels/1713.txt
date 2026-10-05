@@ -1,0 +1,6 @@
+Image filename: 1713.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 403 144 62 40 4
+Bounding box 2: 449 222 50 27 4

@@ -1,0 +1,5 @@
+Image filename: 291.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 293 181 110 84 7

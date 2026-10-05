@@ -1,0 +1,7 @@
+Image filename: 1914.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 398 185 35 47 2
+Bounding box 2: 432 198 48 48 2
+Bounding box 3: 343 192 40 41 2

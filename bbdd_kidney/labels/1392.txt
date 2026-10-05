@@ -1,0 +1,13 @@
+Image filename: 1392.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 464 162 65 84 2
+Bounding box 2: 375 180 62 60 2
+Bounding box 3: 304 176 69 58 2
+Bounding box 4: 455 125 28 25 2
+Bounding box 5: 481 104 42 31 2
+Bounding box 6: 386 135 52 27 2
+Bounding box 7: 411 150 36 32 2
+Bounding box 8: 351 130 27 36 2
+Bounding box 9: 366 160 23 28 2

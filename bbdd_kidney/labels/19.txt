@@ -1,0 +1,6 @@
+Image filename: 19.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 252 231 45 27 8
+Bounding box 2: 263 169 33 13 8

@@ -1,0 +1,9 @@
+Image filename: 433.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 298 146 106 76 2
+Bounding box 2: 384 155 105 74 2
+Bounding box 3: 340 234 170 160 3
+Bounding box 4: 297 231 44 38 2
+Bounding box 5: 349 229 44 45 2

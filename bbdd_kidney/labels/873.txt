@@ -1,0 +1,6 @@
+Image filename: 873.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 362 148 34 25 2
+Bounding box 2: 317 132 33 27 2

@@ -1,0 +1,5 @@
+Image filename: 1405.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 408 172 33 44 3

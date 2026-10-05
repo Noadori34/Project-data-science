@@ -1,0 +1,6 @@
+Image filename: 321.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 477 156 29 12 2
+Bounding box 2: 469 179 29 24 2

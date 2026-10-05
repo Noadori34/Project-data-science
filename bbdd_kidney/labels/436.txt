@@ -1,0 +1,7 @@
+Image filename: 436.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 287 139 51 31 9
+Bounding box 2: 289 197 158 137 7
+Bounding box 3: 372 153 126 101 7

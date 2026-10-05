@@ -1,0 +1,8 @@
+Image filename: 790.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 351 169 60 60 7
+Bounding box 2: 285 164 57 69 7
+Bounding box 3: 462 164 30 21 8
+Bounding box 4: 290 157 125 85 7

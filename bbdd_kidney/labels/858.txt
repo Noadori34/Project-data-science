@@ -1,0 +1,6 @@
+Image filename: 858.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 412 203 57 38 2
+Bounding box 2: 318 200 57 45 2

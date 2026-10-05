@@ -1,0 +1,6 @@
+Image filename: 613.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 249 164 129 117 7
+Bounding box 2: 366 161 150 132 7

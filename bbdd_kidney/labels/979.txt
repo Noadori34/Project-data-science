@@ -1,0 +1,6 @@
+Image filename: 979.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 383 141 39 34 2
+Bounding box 2: 397 167 36 29 2

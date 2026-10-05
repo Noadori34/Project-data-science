@@ -1,0 +1,8 @@
+Image filename: 695.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 418 86 108 93 2
+Bounding box 2: 323 73 94 91 2
+Bounding box 3: 371 148 81 54 2
+Bounding box 4: 323 179 59 45 2

@@ -1,0 +1,5 @@
+Image filename: 1120.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 277 168 178 79 7

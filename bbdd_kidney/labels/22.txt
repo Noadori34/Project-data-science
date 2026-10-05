@@ -1,0 +1,5 @@
+Image filename: 22.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 345 180 55 39 7

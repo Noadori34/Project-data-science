@@ -1,0 +1,9 @@
+Image filename: 411.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 407 172 27 37 1
+Bounding box 2: 379 171 18 46 1
+Bounding box 3: 446 164 31 38 2
+Bounding box 4: 336 142 30 36 8
+Bounding box 5: 294 167 39 30 2

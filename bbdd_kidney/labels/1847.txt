@@ -1,0 +1,12 @@
+Image filename: 1847.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 276 194 52 52 2
+Bounding box 2: 316 165 49 53 2
+Bounding box 3: 316 209 68 64 2
+Bounding box 4: 354 146 27 36 2
+Bounding box 5: 395 167 47 48 2
+Bounding box 6: 386 207 58 48 2
+Bounding box 7: 455 146 40 36 2
+Bounding box 8: 455 175 56 43 2

@@ -1,0 +1,5 @@
+Image filename: 1081.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 343 302 28 36 2

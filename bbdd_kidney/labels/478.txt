@@ -1,0 +1,6 @@
+Image filename: 478.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 156 102 193 136 2
+Bounding box 2: 396 185 55 39 2

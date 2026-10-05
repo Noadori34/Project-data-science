@@ -1,0 +1,5 @@
+Image filename: 1084.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 333 174 77 66 7

@@ -1,0 +1,7 @@
+Image filename: 341.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 285 151 99 63 2
+Bounding box 2: 297 223 30 64 2
+Bounding box 3: 358 193 52 69 2

@@ -1,0 +1,6 @@
+Image filename: 405.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 273 136 244 100 7
+Bounding box 2: 429 149 101 74 7

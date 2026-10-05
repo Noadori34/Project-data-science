@@ -1,0 +1,5 @@
+Image filename: 1085.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 400 183 141 67 7

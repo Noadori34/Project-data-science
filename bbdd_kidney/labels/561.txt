@@ -1,0 +1,9 @@
+Image filename: 561.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 377 164 92 71 2
+Bounding box 2: 393 214 119 91 2
+Bounding box 3: 292 102 47 68 2
+Bounding box 4: 303 158 62 64 2
+Bounding box 5: 290 201 56 58 2

@@ -1,0 +1,6 @@
+Image filename: 463.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 276 170 41 30 2
+Bounding box 2: 294 188 19 24 2

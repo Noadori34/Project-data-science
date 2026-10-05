@@ -1,0 +1,8 @@
+Image filename: 421.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 312 209 50 44 4
+Bounding box 2: 465 189 52 39 4
+Bounding box 3: 363 197 41 67 4
+Bounding box 4: 517 192 37 49 4

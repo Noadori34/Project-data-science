@@ -1,0 +1,5 @@
+Image filename: 79.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 280 160 33 31 9

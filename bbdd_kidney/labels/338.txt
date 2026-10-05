@@ -1,0 +1,8 @@
+Image filename: 338.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 338 133 36 40 4
+Bounding box 2: 273 165 57 36 4
+Bounding box 3: 391 131 23 40 4
+Bounding box 4: 388 178 43 38 7

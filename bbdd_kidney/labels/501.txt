@@ -1,0 +1,9 @@
+Image filename: 501.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 401 144 60 65 4
+Bounding box 2: 277 198 57 45 2
+Bounding box 3: 301 276 66 57 4
+Bounding box 4: 477 161 38 31 7
+Bounding box 5: 360 219 99 74 4

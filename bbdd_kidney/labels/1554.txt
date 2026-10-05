@@ -1,0 +1,4 @@
+Image filename: 1554.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0

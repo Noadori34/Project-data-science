@@ -1,0 +1,5 @@
+Image filename: 1377.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 465 193 50 40 8

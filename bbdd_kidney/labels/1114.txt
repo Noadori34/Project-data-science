@@ -1,0 +1,5 @@
+Image filename: 1114.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 343 92 36 34 2

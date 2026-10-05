@@ -1,0 +1,6 @@
+Image filename: 1097.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 288 138 84 70 7
+Bounding box 2: 400 157 122 62 7

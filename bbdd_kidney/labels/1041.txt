@@ -1,0 +1,5 @@
+Image filename: 1041.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 354 193 99 99 7

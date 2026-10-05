@@ -1,0 +1,6 @@
+Image filename: 514.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 316 138 45 34 4
+Bounding box 2: 368 187 61 79 7

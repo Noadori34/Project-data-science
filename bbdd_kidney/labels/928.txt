@@ -1,0 +1,6 @@
+Image filename: 928.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 312 159 40 44 4
+Bounding box 2: 349 164 45 46 4

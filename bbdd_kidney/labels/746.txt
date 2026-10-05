@@ -1,0 +1,8 @@
+Image filename: 746.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 300 241 83 89 7
+Bounding box 2: 333 184 119 64 7
+Bounding box 3: 360 152 90 51 7
+Bounding box 4: 436 140 74 46 7

@@ -1,0 +1,5 @@
+Image filename: 1025.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 286 123 152 132 7

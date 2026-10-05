@@ -1,0 +1,5 @@
+Image filename: 242.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 302 107 125 74 8

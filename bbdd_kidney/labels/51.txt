@@ -1,0 +1,16 @@
+Image filename: 51.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 220 210 130 86 2
+Bounding box 2: 214 179 64 54 2
+Bounding box 3: 276 100 112 79 2
+Bounding box 4: 323 142 74 77 2
+Bounding box 5: 411 153 67 56 2
+Bounding box 6: 205 109 84 56 2
+Bounding box 7: 448 119 44 43 2
+Bounding box 8: 483 132 76 66 2
+Bounding box 9: 358 71 67 73 2
+Bounding box 10: 430 83 83 47 2
+Bounding box 11: 409 61 85 43 2
+Bounding box 12: 249 63 90 61 2

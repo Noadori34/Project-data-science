@@ -1,0 +1,5 @@
+Image filename: 1054.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 333 235 44 45 9

@@ -1,0 +1,7 @@
+Image filename: 446.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 360 161 37 19 8
+Bounding box 2: 248 153 264 184 7
+Bounding box 3: 413 151 96 102 7

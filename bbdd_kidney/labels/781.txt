@@ -1,0 +1,6 @@
+Image filename: 781.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 369 145 49 41 2
+Bounding box 2: 425 113 59 53 4

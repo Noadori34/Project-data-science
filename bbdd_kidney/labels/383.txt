@@ -1,0 +1,5 @@
+Image filename: 383.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 250 156 41 41 5

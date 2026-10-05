@@ -1,0 +1,5 @@
+Image filename: 189.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 338 140 135 117 7

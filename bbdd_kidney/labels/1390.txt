@@ -1,0 +1,11 @@
+Image filename: 1390.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 451 208 75 70 2
+Bounding box 2: 323 241 94 41 2
+Bounding box 3: 285 212 36 35 2
+Bounding box 4: 291 183 49 43 2
+Bounding box 5: 325 173 40 41 2
+Bounding box 6: 353 187 48 36 2
+Bounding box 7: 401 215 41 51 2

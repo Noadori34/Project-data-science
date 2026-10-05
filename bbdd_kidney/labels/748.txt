@@ -1,0 +1,6 @@
+Image filename: 748.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 320 204 180 78 7
+Bounding box 2: 442 163 58 40 2

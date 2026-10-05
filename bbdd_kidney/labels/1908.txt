@@ -1,0 +1,6 @@
+Image filename: 1908.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 400 106 100 93 2
+Bounding box 2: 312 187 93 58 3

@@ -1,0 +1,7 @@
+Image filename: 276.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 365 115 141 102 2
+Bounding box 2: 318 101 72 53 2
+Bounding box 3: 314 136 41 52 2

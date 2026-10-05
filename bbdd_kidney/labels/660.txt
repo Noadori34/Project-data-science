@@ -1,0 +1,8 @@
+Image filename: 660.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 337 159 90 67 2
+Bounding box 2: 436 115 130 110 2
+Bounding box 3: 252 169 96 80 2
+Bounding box 4: 305 104 73 52 2

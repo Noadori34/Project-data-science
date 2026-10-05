@@ -1,0 +1,8 @@
+Image filename: 418.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 350 162 68 70 7
+Bounding box 2: 252 185 77 55 7
+Bounding box 3: 304 125 39 39 7
+Bounding box 4: 383 125 74 59 7

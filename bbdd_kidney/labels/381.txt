@@ -1,0 +1,5 @@
+Image filename: 381.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 318 156 40 41 5

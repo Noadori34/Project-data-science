@@ -1,0 +1,6 @@
+Image filename: 1018.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 336 163 60 58 4
+Bounding box 2: 402 155 65 60 4

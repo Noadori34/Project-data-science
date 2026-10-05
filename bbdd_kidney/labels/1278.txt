@@ -1,0 +1,11 @@
+Image filename: 1278.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 443 178 67 53 2
+Bounding box 2: 376 195 74 66 3
+Bounding box 3: 312 209 68 51 3
+Bounding box 4: 376 183 32 35 2
+Bounding box 5: 427 151 40 61 2
+Bounding box 6: 363 220 44 52 2
+Bounding box 7: 450 151 30 33 2

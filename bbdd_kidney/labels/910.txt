@@ -1,0 +1,5 @@
+Image filename: 910.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 208 196 83 71 3

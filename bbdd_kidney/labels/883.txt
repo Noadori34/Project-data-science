@@ -1,0 +1,5 @@
+Image filename: 883.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 398 164 33 58 1

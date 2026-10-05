@@ -1,0 +1,7 @@
+Image filename: 783.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 310 156 58 48 4
+Bounding box 2: 356 134 62 49 4
+Bounding box 3: 404 128 58 42 4

@@ -1,0 +1,6 @@
+Image filename: 919.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 372 125 76 74 2
+Bounding box 2: 239 136 114 89 2

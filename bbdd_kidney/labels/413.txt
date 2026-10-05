@@ -1,0 +1,7 @@
+Image filename: 413.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 403 150 33 25 8
+Bounding box 2: 440 149 30 28 2
+Bounding box 3: 375 150 32 30 2

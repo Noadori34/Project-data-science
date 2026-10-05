@@ -1,0 +1,5 @@
+Image filename: 615.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 231 178 205 126 7

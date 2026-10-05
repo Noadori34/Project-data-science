@@ -1,0 +1,6 @@
+Image filename: 379.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 356 182 29 31 2
+Bounding box 2: 282 203 44 36 3

@@ -1,0 +1,6 @@
+Image filename: 1772.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 430 128 48 38 2
+Bounding box 2: 416 219 76 42 2

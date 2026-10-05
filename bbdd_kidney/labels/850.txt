@@ -1,0 +1,6 @@
+Image filename: 850.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 241 101 100 90 2
+Bounding box 2: 405 77 48 40 2

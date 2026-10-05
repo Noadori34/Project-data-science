@@ -1,0 +1,5 @@
+Image filename: 1842.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 456 183 93 69 2

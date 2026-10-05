@@ -1,0 +1,7 @@
+Image filename: 1196.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 361 170 39 39 2
+Bounding box 2: 318 201 46 40 7
+Bounding box 3: 421 208 50 57 7

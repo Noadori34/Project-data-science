@@ -1,0 +1,6 @@
+Image filename: 1709.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 341 148 48 67 4
+Bounding box 2: 434 141 39 54 4

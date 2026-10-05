@@ -1,0 +1,9 @@
+Image filename: 27.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 202 54 78 69 4
+Bounding box 2: 320 81 49 56 4
+Bounding box 3: 406 133 72 49 4
+Bounding box 4: 401 176 63 49 4
+Bounding box 5: 314 161 65 64 4

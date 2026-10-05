@@ -1,0 +1,6 @@
+Image filename: 793.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 297 172 111 65 7
+Bounding box 2: 343 155 70 67 7

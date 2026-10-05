@@ -1,0 +1,7 @@
+Image filename: 998.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 396 151 99 63 2
+Bounding box 2: 392 192 79 56 2
+Bounding box 3: 394 132 29 24 2

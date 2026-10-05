@@ -1,0 +1,6 @@
+Image filename: 61.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 386 186 59 34 7
+Bounding box 2: 445 178 43 35 7

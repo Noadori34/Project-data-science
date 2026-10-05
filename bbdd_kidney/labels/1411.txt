@@ -1,0 +1,5 @@
+Image filename: 1411.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 391 209 47 49 7

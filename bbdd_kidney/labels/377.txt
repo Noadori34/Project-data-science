@@ -1,0 +1,7 @@
+Image filename: 377.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 281 200 46 31 2
+Bounding box 2: 352 192 35 32 2
+Bounding box 3: 414 188 15 28 2

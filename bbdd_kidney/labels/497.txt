@@ -1,0 +1,7 @@
+Image filename: 497.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 338 164 40 35 4
+Bounding box 2: 284 165 45 27 4
+Bounding box 3: 280 277 37 32 4

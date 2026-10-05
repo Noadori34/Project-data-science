@@ -1,0 +1,6 @@
+Image filename: 1552.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 452 165 78 95 2
+Bounding box 2: 338 221 138 128 3

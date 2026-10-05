@@ -1,0 +1,6 @@
+Image filename: 889.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 339 130 22 15 2
+Bounding box 2: 383 136 22 18 2

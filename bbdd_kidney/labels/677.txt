@@ -1,0 +1,6 @@
+Image filename: 677.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 340 150 109 71 7
+Bounding box 2: 401 127 116 74 7

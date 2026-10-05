@@ -1,0 +1,5 @@
+Image filename: 1889.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 291 127 48 46 2

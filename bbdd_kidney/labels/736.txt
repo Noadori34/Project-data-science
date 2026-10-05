@@ -1,0 +1,5 @@
+Image filename: 736.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 309 178 68 41 2

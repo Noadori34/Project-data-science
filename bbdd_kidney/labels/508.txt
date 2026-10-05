@@ -1,0 +1,7 @@
+Image filename: 508.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 260 206 113 70 7
+Bounding box 2: 273 166 224 113 7
+Bounding box 3: 270 164 38 28 2

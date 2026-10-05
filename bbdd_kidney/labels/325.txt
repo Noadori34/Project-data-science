@@ -1,0 +1,6 @@
+Image filename: 325.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 393 194 30 23 2
+Bounding box 2: 267 216 57 42 8

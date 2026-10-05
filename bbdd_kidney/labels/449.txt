@@ -1,0 +1,6 @@
+Image filename: 449.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 303 185 61 45 4
+Bounding box 2: 344 159 65 46 4

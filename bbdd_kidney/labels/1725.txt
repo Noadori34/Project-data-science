@@ -1,0 +1,6 @@
+Image filename: 1725.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 408 199 42 76 1
+Bounding box 2: 503 178 45 65 1

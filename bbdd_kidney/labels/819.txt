@@ -1,0 +1,5 @@
+Image filename: 819.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 409 153 51 40 2

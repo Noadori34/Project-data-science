@@ -1,0 +1,6 @@
+Image filename: 313.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 393 144 29 22 2
+Bounding box 2: 389 165 33 44 1

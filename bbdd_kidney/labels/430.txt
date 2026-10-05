@@ -1,0 +1,7 @@
+Image filename: 430.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 320 161 83 50 7
+Bounding box 2: 404 122 92 49 7
+Bounding box 3: 466 106 82 53 7

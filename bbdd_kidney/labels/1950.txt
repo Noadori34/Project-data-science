@@ -1,0 +1,5 @@
+Image filename: 1950.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 324 138 46 53 5

@@ -1,0 +1,5 @@
+Image filename: 365.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 302 152 80 57 2

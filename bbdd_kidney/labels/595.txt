@@ -1,0 +1,7 @@
+Image filename: 595.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 280 224 213 69 7
+Bounding box 2: 312 165 62 61 4
+Bounding box 3: 366 147 48 70 4

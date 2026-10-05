@@ -1,0 +1,5 @@
+Image filename: 838.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 279 220 26 30 8

@@ -1,0 +1,5 @@
+Image filename: 1926.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 324 239 63 67 2

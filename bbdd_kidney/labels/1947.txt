@@ -1,0 +1,7 @@
+Image filename: 1947.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 417 282 72 43 8
+Bounding box 2: 364 187 22 35 4
+Bounding box 3: 420 191 46 32 4

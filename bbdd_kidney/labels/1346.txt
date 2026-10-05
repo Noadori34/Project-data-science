@@ -1,0 +1,5 @@
+Image filename: 1346.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 333 211 31 43 2

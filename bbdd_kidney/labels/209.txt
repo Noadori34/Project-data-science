@@ -1,0 +1,5 @@
+Image filename: 209.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 311 194 51 60 5

@@ -1,0 +1,6 @@
+Image filename: 202.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 271 167 52 38 2
+Bounding box 2: 277 197 43 32 1

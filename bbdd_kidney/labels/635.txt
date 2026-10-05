@@ -1,0 +1,6 @@
+Image filename: 635.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 368 137 144 147 3
+Bounding box 2: 265 164 128 96 2

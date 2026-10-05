@@ -1,0 +1,6 @@
+Image filename: 219.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 329 172 33 71 1
+Bounding box 2: 383 164 34 82 1

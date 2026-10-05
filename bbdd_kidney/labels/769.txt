@@ -1,0 +1,5 @@
+Image filename: 769.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 453 137 38 45 2

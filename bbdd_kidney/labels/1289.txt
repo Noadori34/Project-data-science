@@ -1,0 +1,7 @@
+Image filename: 1289.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 443 204 42 44 4
+Bounding box 2: 392 204 40 42 4
+Bounding box 3: 339 213 36 56 4

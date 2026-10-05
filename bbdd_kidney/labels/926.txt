@@ -1,0 +1,5 @@
+Image filename: 926.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 393 196 39 64 1

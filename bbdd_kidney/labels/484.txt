@@ -1,0 +1,6 @@
+Image filename: 484.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 495 218 33 40 5
+Bounding box 2: 386 166 40 46 5

@@ -1,0 +1,6 @@
+Image filename: 662.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 346 113 41 31 2
+Bounding box 2: 378 100 36 43 2

@@ -1,0 +1,5 @@
+Image filename: 1082.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 1
+Bounding box 1: 443 139 65 65 2

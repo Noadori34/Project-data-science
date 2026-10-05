@@ -1,0 +1,5 @@
+Image filename: 1589.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 293 204 25 44 2

@@ -1,0 +1,6 @@
+Image filename: 815.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 362 136 121 57 7
+Bounding box 2: 328 170 101 77 7

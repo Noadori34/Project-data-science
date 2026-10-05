@@ -1,0 +1,5 @@
+Image filename: 936.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 309 129 209 72 7

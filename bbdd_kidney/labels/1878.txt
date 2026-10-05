@@ -1,0 +1,7 @@
+Image filename: 1878.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 327 134 26 40 4
+Bounding box 2: 400 118 36 43 4
+Bounding box 3: 444 112 37 41 4

@@ -1,0 +1,8 @@
+Image filename: 772.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 436 180 38 37 2
+Bounding box 2: 315 189 42 37 2
+Bounding box 3: 389 187 38 24 2
+Bounding box 4: 350 164 48 33 2

@@ -1,0 +1,6 @@
+Image filename: 213.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 396 167 26 60 1
+Bounding box 2: 407 202 85 48 8

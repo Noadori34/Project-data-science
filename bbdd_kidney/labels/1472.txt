@@ -1,0 +1,5 @@
+Image filename: 1472.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 376 182 48 79 7

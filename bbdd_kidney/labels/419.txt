@@ -1,0 +1,8 @@
+Image filename: 419.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 348 178 98 58 7
+Bounding box 2: 341 125 49 42 4
+Bounding box 3: 452 115 39 40 4
+Bounding box 4: 394 115 56 57 7

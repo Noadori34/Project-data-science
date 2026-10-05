@@ -1,0 +1,8 @@
+Image filename: 1000.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 375 168 80 58 7
+Bounding box 2: 286 182 142 83 7
+Bounding box 3: 391 133 39 27 8
+Bounding box 4: 415 139 23 31 8

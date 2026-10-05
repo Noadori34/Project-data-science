@@ -1,0 +1,11 @@
+Image filename: 1876.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 379 104 64 69 2
+Bounding box 2: 313 101 60 48 2
+Bounding box 3: 440 139 69 73 2
+Bounding box 4: 353 144 58 65 2
+Bounding box 5: 324 150 54 43 2
+Bounding box 6: 281 176 57 68 2
+Bounding box 7: 481 92 68 67 2

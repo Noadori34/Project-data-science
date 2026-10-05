@@ -1,0 +1,5 @@
+Image filename: 642.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 375 227 80 61 7

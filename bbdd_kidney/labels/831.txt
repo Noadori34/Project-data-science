@@ -1,0 +1,8 @@
+Image filename: 831.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 334 168 60 64 2
+Bounding box 2: 448 190 54 50 2
+Bounding box 3: 456 200 35 29 2
+Bounding box 4: 391 170 35 49 2

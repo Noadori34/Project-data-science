@@ -1,0 +1,5 @@
+Image filename: 132.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 262 143 117 111 7

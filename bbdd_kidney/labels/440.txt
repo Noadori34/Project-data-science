@@ -1,0 +1,5 @@
+Image filename: 440.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 365 71 50 43 9

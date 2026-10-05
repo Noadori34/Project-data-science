@@ -1,0 +1,7 @@
+Image filename: 1907.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 390 122 69 70 2
+Bounding box 2: 327 218 53 35 2
+Bounding box 3: 450 234 25 33 2

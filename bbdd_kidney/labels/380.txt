@@ -1,0 +1,6 @@
+Image filename: 380.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 275 173 35 31 9
+Bounding box 2: 329 172 59 41 7

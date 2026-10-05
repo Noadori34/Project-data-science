@@ -1,0 +1,5 @@
+Image filename: 1023.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 314 130 160 164 3

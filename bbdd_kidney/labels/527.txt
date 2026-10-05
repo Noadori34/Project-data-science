@@ -1,0 +1,6 @@
+Image filename: 527.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 324 222 95 45 7
+Bounding box 2: 417 201 101 77 7

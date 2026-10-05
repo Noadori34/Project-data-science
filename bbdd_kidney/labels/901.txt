@@ -1,0 +1,6 @@
+Image filename: 901.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 358 124 44 33 4
+Bounding box 2: 417 135 29 23 4

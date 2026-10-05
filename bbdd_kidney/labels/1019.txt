@@ -1,0 +1,5 @@
+Image filename: 1019.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 273 127 139 139 6

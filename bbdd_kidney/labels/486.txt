@@ -1,0 +1,8 @@
+Image filename: 486.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 338 197 28 40 2
+Bounding box 2: 357 184 37 32 2
+Bounding box 3: 280 177 84 98 7
+Bounding box 4: 392 213 49 65 7

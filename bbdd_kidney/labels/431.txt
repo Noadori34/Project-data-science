@@ -1,0 +1,8 @@
+Image filename: 431.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 329 160 95 58 7
+Bounding box 2: 408 137 60 40 7
+Bounding box 3: 465 107 83 43 7
+Bounding box 4: 423 112 105 62 7

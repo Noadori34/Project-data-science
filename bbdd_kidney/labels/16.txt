@@ -1,0 +1,8 @@
+Image filename: 16.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 171 172 144 74 7
+Bounding box 2: 239 129 98 64 7
+Bounding box 3: 278 186 72 51 7
+Bounding box 4: 350 152 79 67 7

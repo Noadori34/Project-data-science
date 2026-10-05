@@ -1,0 +1,7 @@
+Image filename: 683.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 335 135 63 40 2
+Bounding box 2: 399 99 72 62 2
+Bounding box 3: 301 188 61 72 7

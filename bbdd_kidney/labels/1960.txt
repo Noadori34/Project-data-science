@@ -1,0 +1,6 @@
+Image filename: 1960.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 230 191 114 106 2
+Bounding box 2: 382 155 53 58 2

@@ -1,0 +1,7 @@
+Image filename: 1292.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 403 169 29 39 4
+Bounding box 2: 323 173 31 22 4
+Bounding box 3: 330 211 146 109 2

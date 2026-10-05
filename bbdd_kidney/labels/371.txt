@@ -1,0 +1,5 @@
+Image filename: 371.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 264 148 85 81 2

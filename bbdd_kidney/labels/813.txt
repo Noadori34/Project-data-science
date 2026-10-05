@@ -1,0 +1,6 @@
+Image filename: 813.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 398 95 41 40 8
+Bounding box 2: 358 137 70 69 2

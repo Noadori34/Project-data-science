@@ -1,0 +1,7 @@
+Image filename: 688.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 436 127 51 71 2
+Bounding box 2: 473 130 40 49 2
+Bounding box 3: 363 176 34 36 1

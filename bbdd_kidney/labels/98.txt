@@ -1,0 +1,5 @@
+Image filename: 98.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 344 162 171 146 7

@@ -1,0 +1,7 @@
+Image filename: 328.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 455 191 17 31 4
+Bounding box 2: 377 178 32 41 4
+Bounding box 3: 353 188 23 44 4

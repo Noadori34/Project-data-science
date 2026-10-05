@@ -1,0 +1,6 @@
+Image filename: 394.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 467 159 64 48 7
+Bounding box 2: 395 117 27 27 8

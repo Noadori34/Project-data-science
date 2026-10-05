@@ -1,0 +1,8 @@
+Image filename: 1394.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 328 157 104 104 3
+Bounding box 2: 417 135 86 69 2
+Bounding box 3: 259 149 56 51 2
+Bounding box 4: 244 192 53 74 3

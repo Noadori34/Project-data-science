@@ -1,0 +1,5 @@
+Image filename: 428.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 334 255 51 38 5

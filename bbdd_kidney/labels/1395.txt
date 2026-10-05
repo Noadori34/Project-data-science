@@ -1,0 +1,8 @@
+Image filename: 1395.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 335 159 115 88 3
+Bounding box 2: 303 231 98 78 3
+Bounding box 3: 453 144 67 46 2
+Bounding box 4: 279 148 58 54 2

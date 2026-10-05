@@ -1,0 +1,5 @@
+Image filename: 601.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 291 227 39 55 2

@@ -1,0 +1,6 @@
+Image filename: 9.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 366 144 61 34 2
+Bounding box 2: 413 153 50 31 2

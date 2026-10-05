@@ -1,0 +1,5 @@
+Image filename: 1755.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 392 142 25 28 2

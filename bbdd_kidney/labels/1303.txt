@@ -1,0 +1,7 @@
+Image filename: 1303.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 373 190 55 42 2
+Bounding box 2: 417 129 64 66 2
+Bounding box 3: 445 161 72 68 2

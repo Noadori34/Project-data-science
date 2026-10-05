@@ -1,0 +1,4 @@
+Image filename: 1906.jpg
+Global diagnosis: 0
+Global pathologies: 0 0
+View: 0

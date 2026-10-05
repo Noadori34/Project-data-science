@@ -1,0 +1,8 @@
+Image filename: 283.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 348 160 58 64 2
+Bounding box 2: 453 123 28 54 2
+Bounding box 3: 417 125 27 43 2
+Bounding box 4: 390 119 31 31 2

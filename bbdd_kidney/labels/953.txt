@@ -1,0 +1,5 @@
+Image filename: 953.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 414 156 33 27 2

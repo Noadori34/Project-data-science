@@ -1,0 +1,6 @@
+Image filename: 318.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 366 206 37 41 2
+Bounding box 2: 429 215 33 42 2

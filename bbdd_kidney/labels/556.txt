@@ -1,0 +1,6 @@
+Image filename: 556.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 401 209 27 38 1
+Bounding box 2: 431 187 23 23 8

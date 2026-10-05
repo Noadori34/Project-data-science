@@ -1,0 +1,7 @@
+Image filename: 1980.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 337 173 89 101 1
+Bounding box 2: 206 219 127 97 7
+Bounding box 3: 421 132 112 118 7

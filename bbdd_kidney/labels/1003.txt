@@ -1,0 +1,7 @@
+Image filename: 1003.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 445 222 62 56 2
+Bounding box 2: 332 255 53 69 2
+Bounding box 3: 454 230 33 39 2

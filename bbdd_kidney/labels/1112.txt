@@ -1,0 +1,6 @@
+Image filename: 1112.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 289 192 60 61 7
+Bounding box 2: 375 150 27 31 2

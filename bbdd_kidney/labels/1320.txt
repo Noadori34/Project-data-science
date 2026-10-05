@@ -1,0 +1,12 @@
+Image filename: 1320.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 433 89 142 108 2
+Bounding box 2: 368 159 67 46 2
+Bounding box 3: 387 197 35 34 2
+Bounding box 4: 317 199 69 56 2
+Bounding box 5: 347 95 51 37 2
+Bounding box 6: 388 119 40 34 2
+Bounding box 7: 433 213 37 46 2
+Bounding box 8: 477 177 56 65 2

@@ -1,0 +1,5 @@
+Image filename: 1040.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 229 167 240 187 7

@@ -1,0 +1,5 @@
+Image filename: 1504.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 386 187 37 41 7

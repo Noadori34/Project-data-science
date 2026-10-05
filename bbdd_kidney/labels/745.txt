@@ -1,0 +1,5 @@
+Image filename: 745.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 378 172 59 49 2

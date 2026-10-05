@@ -1,0 +1,5 @@
+Image filename: 2.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 299 225 31 34 5

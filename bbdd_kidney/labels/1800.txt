@@ -1,0 +1,5 @@
+Image filename: 1800.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 343 185 28 40 2

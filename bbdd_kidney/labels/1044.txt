@@ -1,0 +1,5 @@
+Image filename: 1044.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 422 156 91 91 7

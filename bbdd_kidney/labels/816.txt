@@ -1,0 +1,6 @@
+Image filename: 816.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 400 132 97 63 7
+Bounding box 2: 356 174 135 72 7

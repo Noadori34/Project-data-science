@@ -1,0 +1,5 @@
+Image filename: 1148.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 427 198 39 29 2

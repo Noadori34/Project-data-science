@@ -1,0 +1,5 @@
+Image filename: 899.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 307 131 35 45 5

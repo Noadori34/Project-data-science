@@ -1,0 +1,5 @@
+Image filename: 712.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 357 221 35 37 2

@@ -1,0 +1,5 @@
+Image filename: 960.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 342 103 122 90 7

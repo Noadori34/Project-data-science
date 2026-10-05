@@ -1,0 +1,7 @@
+Image filename: 345.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 381 217 36 29 4
+Bounding box 2: 351 237 30 28 4
+Bounding box 3: 446 239 25 30 2

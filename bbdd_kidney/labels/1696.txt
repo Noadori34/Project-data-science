@@ -1,0 +1,5 @@
+Image filename: 1696.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 361 188 60 47 2

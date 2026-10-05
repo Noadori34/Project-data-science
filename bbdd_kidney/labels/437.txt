@@ -1,0 +1,9 @@
+Image filename: 437.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 260 213 100 96 7
+Bounding box 2: 265 226 190 106 7
+Bounding box 3: 361 167 52 54 7
+Bounding box 4: 272 166 91 91 7
+Bounding box 5: 364 142 91 108 7

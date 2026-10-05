@@ -1,0 +1,7 @@
+Image filename: 259.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 314 204 47 52 4
+Bounding box 2: 364 185 44 53 4
+Bounding box 3: 412 186 36 52 4

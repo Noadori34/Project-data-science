@@ -1,0 +1,7 @@
+Image filename: 975.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 415 135 43 54 2
+Bounding box 2: 306 165 53 38 2
+Bounding box 3: 346 125 62 47 2

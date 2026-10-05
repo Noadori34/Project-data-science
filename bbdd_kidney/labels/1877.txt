@@ -1,0 +1,11 @@
+Image filename: 1877.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 345 104 83 67 2
+Bounding box 2: 369 159 51 42 2
+Bounding box 3: 338 175 70 72 2
+Bounding box 4: 272 196 72 52 2
+Bounding box 5: 446 150 42 38 2
+Bounding box 6: 450 91 57 72 2
+Bounding box 7: 218 154 99 53 2

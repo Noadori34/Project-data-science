@@ -1,0 +1,8 @@
+Image filename: 1921.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 386 212 25 33 4
+Bounding box 2: 348 206 27 33 4
+Bounding box 3: 301 199 37 31 4
+Bounding box 4: 253 202 40 46 4

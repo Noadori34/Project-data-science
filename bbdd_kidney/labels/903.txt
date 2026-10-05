@@ -1,0 +1,8 @@
+Image filename: 903.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 314 129 110 83 2
+Bounding box 2: 358 201 124 105 3
+Bounding box 3: 474 110 82 83 2
+Bounding box 4: 224 209 87 121 2

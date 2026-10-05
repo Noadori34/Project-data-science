@@ -1,0 +1,5 @@
+Image filename: 319.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 371 202 90 54 7

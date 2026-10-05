@@ -1,0 +1,6 @@
+Image filename: 874.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 469 195 35 29 2
+Bounding box 2: 363 170 39 31 2

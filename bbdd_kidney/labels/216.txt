@@ -1,0 +1,8 @@
+Image filename: 216.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 391 160 53 47 4
+Bounding box 2: 333 162 54 46 4
+Bounding box 3: 291 170 55 45 4
+Bounding box 4: 438 161 39 41 4

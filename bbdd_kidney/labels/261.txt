@@ -1,0 +1,5 @@
+Image filename: 261.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 360 85 148 63 8

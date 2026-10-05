@@ -1,0 +1,6 @@
+Image filename: 1893.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 379 164 43 40 2
+Bounding box 2: 427 162 38 47 2

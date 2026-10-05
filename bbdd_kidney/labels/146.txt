@@ -1,0 +1,5 @@
+Image filename: 146.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 250 172 54 57 2

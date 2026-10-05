@@ -1,0 +1,5 @@
+Image filename: 39.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 236 174 195 99 7

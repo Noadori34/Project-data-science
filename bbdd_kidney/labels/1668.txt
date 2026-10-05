@@ -1,0 +1,5 @@
+Image filename: 1668.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 454 116 37 117 7

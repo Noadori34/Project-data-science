@@ -1,0 +1,6 @@
+Image filename: 788.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 357 163 57 40 2
+Bounding box 2: 310 172 55 43 2

@@ -1,0 +1,6 @@
+Image filename: 354.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 332 162 27 12 2
+Bounding box 2: 293 188 28 36 2

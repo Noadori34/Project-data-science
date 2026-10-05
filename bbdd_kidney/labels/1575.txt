@@ -1,0 +1,6 @@
+Image filename: 1575.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 434 222 23 60 1
+Bounding box 2: 375 230 39 60 1

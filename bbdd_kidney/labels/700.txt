@@ -1,0 +1,7 @@
+Image filename: 700.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 341 122 56 43 4
+Bounding box 2: 389 138 52 47 4
+Bounding box 3: 443 142 58 52 4

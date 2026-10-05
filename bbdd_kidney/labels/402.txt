@@ -1,0 +1,5 @@
+Image filename: 402.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 383 199 94 55 7

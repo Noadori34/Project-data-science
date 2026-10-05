@@ -1,0 +1,7 @@
+Image filename: 1519.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 429 203 49 49 4
+Bounding box 2: 353 206 54 46 4
+Bounding box 3: 300 229 54 28 4

@@ -1,0 +1,5 @@
+Image filename: 1170.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 1
+Bounding box 1: 406 157 40 58 7

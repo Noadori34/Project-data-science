@@ -1,0 +1,5 @@
+Image filename: 1402.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 383 187 22 20 2

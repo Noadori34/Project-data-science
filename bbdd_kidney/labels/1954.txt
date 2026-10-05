@@ -1,0 +1,9 @@
+Image filename: 1954.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 309 138 62 85 2
+Bounding box 2: 365 191 62 68 2
+Bounding box 3: 424 164 37 51 2
+Bounding box 4: 404 215 100 81 2
+Bounding box 5: 475 162 49 46 2

@@ -1,0 +1,7 @@
+Image filename: 602.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 336 131 104 48 7
+Bounding box 2: 249 141 65 49 7
+Bounding box 3: 340 177 65 42 7

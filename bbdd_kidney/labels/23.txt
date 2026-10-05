@@ -1,0 +1,6 @@
+Image filename: 23.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 305 120 147 44 7
+Bounding box 2: 200 151 95 78 7

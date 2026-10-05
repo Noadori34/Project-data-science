@@ -1,0 +1,6 @@
+Image filename: 564.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 342 83 144 108 3
+Bounding box 2: 323 201 60 48 3

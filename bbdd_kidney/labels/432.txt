@@ -1,0 +1,11 @@
+Image filename: 432.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 315 150 83 73 2
+Bounding box 2: 410 156 84 71 2
+Bounding box 3: 345 246 174 160 3
+Bounding box 4: 233 172 46 29 2
+Bounding box 5: 284 177 35 40 2
+Bounding box 6: 304 235 33 39 2
+Bounding box 7: 236 170 74 62 1

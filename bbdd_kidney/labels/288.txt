@@ -1,0 +1,5 @@
+Image filename: 288.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 283 180 178 68 7

@@ -1,0 +1,6 @@
+Image filename: 877.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 397 121 42 30 9
+Bounding box 2: 320 140 54 47 2

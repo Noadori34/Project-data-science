@@ -1,0 +1,5 @@
+Image filename: 1092.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 413 220 70 72 2

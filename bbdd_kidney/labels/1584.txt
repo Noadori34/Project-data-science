@@ -1,0 +1,6 @@
+Image filename: 1584.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 382 161 39 79 1
+Bounding box 2: 319 180 47 77 1

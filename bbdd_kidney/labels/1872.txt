@@ -1,0 +1,6 @@
+Image filename: 1872.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 398 180 42 59 4
+Bounding box 2: 467 206 36 72 4

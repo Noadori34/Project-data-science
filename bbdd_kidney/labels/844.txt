@@ -1,0 +1,8 @@
+Image filename: 844.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 285 162 41 39 4
+Bounding box 2: 333 158 38 41 4
+Bounding box 3: 386 150 43 45 4
+Bounding box 4: 364 141 30 34 4

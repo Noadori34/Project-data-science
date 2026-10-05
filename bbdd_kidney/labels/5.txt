@@ -1,0 +1,6 @@
+Image filename: 5.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 408 186 94 77 1
+Bounding box 2: 323 152 62 52 9

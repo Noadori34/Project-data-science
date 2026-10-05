@@ -1,0 +1,11 @@
+Image filename: 504.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 321 207 200 70 7
+Bounding box 2: 366 157 44 35 4
+Bounding box 3: 431 160 41 27 4
+Bounding box 4: 477 147 42 27 4
+Bounding box 5: 425 166 98 48 7
+Bounding box 6: 307 202 68 74 7
+Bounding box 7: 436 141 38 39 7

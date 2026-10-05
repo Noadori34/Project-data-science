@@ -1,0 +1,10 @@
+Image filename: 265.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 408 82 122 127 2
+Bounding box 2: 327 87 110 93 2
+Bounding box 3: 371 164 73 64 2
+Bounding box 4: 439 173 130 133 3
+Bounding box 5: 355 213 104 101 2
+Bounding box 6: 320 171 31 43 2

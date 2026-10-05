@@ -1,0 +1,6 @@
+Image filename: 1901.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 425 266 69 46 8
+Bounding box 2: 370 209 23 21 2

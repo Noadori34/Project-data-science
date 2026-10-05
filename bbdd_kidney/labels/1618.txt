@@ -1,0 +1,5 @@
+Image filename: 1618.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 329 139 54 55 2

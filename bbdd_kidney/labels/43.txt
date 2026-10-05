@@ -1,0 +1,6 @@
+Image filename: 43.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 326 166 126 57 7
+Bounding box 2: 315 149 50 44 2

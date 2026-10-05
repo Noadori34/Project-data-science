@@ -1,0 +1,6 @@
+Image filename: 768.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 230 222 129 86 7
+Bounding box 2: 430 228 88 81 7

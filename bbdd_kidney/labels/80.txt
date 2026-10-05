@@ -1,0 +1,5 @@
+Image filename: 80.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 412 146 19 22 2

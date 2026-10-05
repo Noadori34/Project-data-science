@@ -1,0 +1,6 @@
+Image filename: 1811.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 406 230 63 62 7
+Bounding box 2: 424 186 49 46 2

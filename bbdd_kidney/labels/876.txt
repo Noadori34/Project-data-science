@@ -1,0 +1,8 @@
+Image filename: 876.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 319 146 44 41 2
+Bounding box 2: 420 139 39 32 2
+Bounding box 3: 377 141 37 34 2
+Bounding box 4: 407 117 45 22 2

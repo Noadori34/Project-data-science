@@ -1,0 +1,5 @@
+Image filename: 1501.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 380 218 36 73 1

@@ -1,0 +1,5 @@
+Image filename: 1635.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 349 126 23 34 2

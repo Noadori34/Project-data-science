@@ -1,0 +1,5 @@
+Image filename: 65.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 299 188 73 74 2

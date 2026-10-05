@@ -1,0 +1,6 @@
+Image filename: 410.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 232 165 131 51 7
+Bounding box 2: 327 153 129 101 7

@@ -1,0 +1,8 @@
+Image filename: 691.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 427 93 94 123 2
+Bounding box 2: 351 150 72 81 2
+Bounding box 3: 390 167 78 69 2
+Bounding box 4: 269 149 89 88 2

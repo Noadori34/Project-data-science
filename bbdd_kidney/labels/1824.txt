@@ -1,0 +1,6 @@
+Image filename: 1824.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 390 125 26 33 2
+Bounding box 2: 395 135 85 63 7

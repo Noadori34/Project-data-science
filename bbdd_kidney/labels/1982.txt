@@ -1,0 +1,8 @@
+Image filename: 1982.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 386 159 66 35 4
+Bounding box 2: 468 176 61 38 4
+Bounding box 3: 418 201 56 37 4
+Bounding box 4: 475 127 56 59 4

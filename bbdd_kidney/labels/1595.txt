@@ -1,0 +1,5 @@
+Image filename: 1595.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 385 140 34 31 2

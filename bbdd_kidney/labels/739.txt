@@ -1,0 +1,9 @@
+Image filename: 739.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 271 228 63 75 2
+Bounding box 2: 323 144 68 42 7
+Bounding box 3: 352 192 60 50 7
+Bounding box 4: 413 151 51 49 7
+Bounding box 5: 400 188 50 37 7

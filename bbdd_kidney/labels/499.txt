@@ -1,0 +1,5 @@
+Image filename: 499.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 333 162 58 42 4

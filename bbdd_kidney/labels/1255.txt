@@ -1,0 +1,5 @@
+Image filename: 1255.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 484 168 61 53 2

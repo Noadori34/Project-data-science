@@ -1,0 +1,6 @@
+Image filename: 408.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 272 154 76 87 7
+Bounding box 2: 367 145 136 114 7

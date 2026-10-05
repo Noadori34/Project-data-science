@@ -1,0 +1,7 @@
+Image filename: 670.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 327 122 41 35 2
+Bounding box 2: 387 109 43 40 2
+Bounding box 3: 367 178 104 60 7

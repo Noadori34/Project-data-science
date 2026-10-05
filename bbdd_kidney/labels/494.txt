@@ -1,0 +1,6 @@
+Image filename: 494.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 388 168 76 60 7
+Bounding box 2: 268 172 83 60 7

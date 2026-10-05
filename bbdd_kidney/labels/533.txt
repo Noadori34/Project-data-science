@@ -1,0 +1,5 @@
+Image filename: 533.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 334 177 66 85 7

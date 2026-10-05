@@ -1,0 +1,6 @@
+Image filename: 231.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 364 77 136 65 9
+Bounding box 2: 341 201 101 43 8

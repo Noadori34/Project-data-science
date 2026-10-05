@@ -1,0 +1,9 @@
+Image filename: 946.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 355 170 34 27 4
+Bounding box 2: 387 155 32 34 4
+Bounding box 3: 420 159 26 30 4
+Bounding box 4: 446 160 27 33 4
+Bounding box 5: 480 165 25 35 4

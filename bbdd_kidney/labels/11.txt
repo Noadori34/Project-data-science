@@ -1,0 +1,5 @@
+Image filename: 11.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 314 115 33 24 1

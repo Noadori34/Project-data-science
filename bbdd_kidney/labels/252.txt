@@ -1,0 +1,8 @@
+Image filename: 252.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 272 123 183 58 8
+Bounding box 2: 261 170 64 65 4
+Bounding box 3: 325 165 69 40 4
+Bounding box 4: 392 128 77 57 4

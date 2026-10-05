@@ -1,0 +1,6 @@
+Image filename: 324.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 338 222 24 30 2
+Bounding box 2: 284 236 45 53 8

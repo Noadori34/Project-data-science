@@ -1,0 +1,5 @@
+Image filename: 1787.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 353 198 131 78 7

@@ -1,0 +1,7 @@
+Image filename: 999.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 404 152 73 87 2
+Bounding box 2: 340 152 66 57 2
+Bounding box 3: 447 135 22 27 8

@@ -1,0 +1,6 @@
+Image filename: 540.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 420 170 52 42 2
+Bounding box 2: 367 156 43 45 2

@@ -1,0 +1,5 @@
+Image filename: 611.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 347 177 215 102 7

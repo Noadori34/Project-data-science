@@ -1,0 +1,6 @@
+Image filename: 870.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 297 135 113 89 3
+Bounding box 2: 301 236 76 53 3

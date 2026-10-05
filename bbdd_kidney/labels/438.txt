@@ -1,0 +1,7 @@
+Image filename: 438.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 1
+Bounding box 1: 355 139 46 24 2
+Bounding box 2: 342 170 128 67 7
+Bounding box 3: 464 126 43 44 7

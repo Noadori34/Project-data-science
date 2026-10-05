@@ -1,0 +1,7 @@
+Image filename: 892.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 359 146 47 40 3
+Bounding box 2: 409 150 36 38 4
+Bounding box 3: 264 157 56 34 4

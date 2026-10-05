@@ -1,0 +1,6 @@
+Image filename: 733.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 441 154 52 46 2
+Bounding box 2: 482 163 36 37 2

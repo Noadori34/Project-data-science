@@ -1,0 +1,7 @@
+Image filename: 1690.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 336 210 38 103 1
+Bounding box 2: 391 198 46 95 1
+Bounding box 3: 443 185 65 104 1

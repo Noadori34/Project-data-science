@@ -1,0 +1,6 @@
+Image filename: 828.jpg
+Global diagnosis: 1
+Global pathologies: 1 1
+View: 0
+Bounding box 1: 332 152 63 45 2
+Bounding box 2: 397 127 88 99 2

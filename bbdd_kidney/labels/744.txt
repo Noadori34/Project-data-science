@@ -1,0 +1,7 @@
+Image filename: 744.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 452 145 47 40 9
+Bounding box 2: 372 170 60 49 2
+Bounding box 3: 458 184 53 52 2

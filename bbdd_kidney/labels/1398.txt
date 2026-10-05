@@ -1,0 +1,5 @@
+Image filename: 1398.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 311 180 43 35 2

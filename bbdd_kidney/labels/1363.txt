@@ -1,0 +1,6 @@
+Image filename: 1363.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 311 140 51 41 5
+Bounding box 2: 395 204 59 79 7

@@ -1,0 +1,5 @@
+Image filename: 714.jpg
+Global diagnosis: 1
+Global pathologies: 0 1
+View: 0
+Bounding box 1: 311 204 61 53 2

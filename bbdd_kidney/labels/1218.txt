@@ -1,0 +1,5 @@
+Image filename: 1218.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 292 105 257 125 7

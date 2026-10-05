@@ -1,0 +1,8 @@
+Image filename: 854.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 385 141 35 76 1
+Bounding box 2: 344 133 32 26 1
+Bounding box 3: 384 135 24 32 2
+Bounding box 4: 406 143 23 26 2

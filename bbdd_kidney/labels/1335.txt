@@ -1,0 +1,5 @@
+Image filename: 1335.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 509 122 21 33 5

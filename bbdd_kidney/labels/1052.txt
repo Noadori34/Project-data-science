@@ -1,0 +1,5 @@
+Image filename: 1052.jpg
+Global diagnosis: 1
+Global pathologies: 0 0
+View: 0
+Bounding box 1: 492 129 34 32 2

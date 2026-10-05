@@ -1,0 +1,5 @@
+Image filename: 87.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 322 177 35 42 2

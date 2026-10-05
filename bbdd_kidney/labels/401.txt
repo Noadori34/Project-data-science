@@ -1,0 +1,6 @@
+Image filename: 401.jpg
+Global diagnosis: 1
+Global pathologies: 1 0
+View: 0
+Bounding box 1: 368 190 96 68 7
+Bounding box 2: 467 146 26 21 8
