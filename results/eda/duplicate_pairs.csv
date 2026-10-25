@@ -1,0 +1,112 @@
+img_a,img_b,verdict,pixel_corr,hash_dist,id_gap,diag_a,diag_b,lesions_a,lesions_b,same_labels
+537,538,identical image,1.0,0,1,1,1,2,2,True
+395,396,identical image,1.0,0,1,1,1,2,2,True
+350,351,identical image,1.0,0,1,1,1,2,2,True
+469,470,identical image,1.0,0,1,1,1,2 2 2,2 2 2 2,False
+874,875,identical image,1.0,0,1,1,1,2 2,2 2,False
+773,774,identical image,1.0,0,1,1,1,2 2,2 2,True
+720,721,identical image,1.0,0,1,1,1,7 7,7 7,True
+882,883,identical image,1.0,0,1,1,1,,1,False
+1830,1831,identical image,1.0,0,1,1,1,7,7,True
+1898,1899,identical image,1.0,0,1,1,1,8,8,True
+899,900,identical image,1.0,0,1,1,1,5,5,True
+771,772,identical image,1.0,0,1,1,1,2 2 2,2 2 2 2,False
+467,468,identical image,1.0,0,1,1,1,2,2 2,False
+471,472,identical image,1.0,0,1,1,1,2,2,True
+414,415,identical image,1.0,0,1,1,1,1 1 2 2 2 8,1 1 1 1 2,False
+1426,1427,identical image,1.0,0,1,1,1,7 7,7 7,True
+544,545,identical image,1.0,0,1,1,1,2 2,2 2 2,False
+1955,1956,identical image,1.0,0,1,0,0,,,True
+836,837,identical image,1.0,0,1,1,1,4 4,4 4,True
+359,360,identical image,1.0,0,1,1,1,4 4,4 4,False
+6,319,identical image,1.0,0,313,1,1,7,7,True
+4,296,identical image,1.0,0,292,1,0,,,False
+286,287,identical image,1.0,0,1,1,1,7,7,True
+100,101,identical image,1.0,2,1,1,1,1 8,1,False
+87,88,identical image,1.0,0,1,1,1,2,2,False
+602,604,identical image,0.999,0,2,1,1,7 7 7,7 7 7,True
+1405,1406,identical image,0.999,0,1,1,1,3,3,True
+243,244,identical image,0.999,0,1,0,0,,,True
+227,228,identical image,0.999,2,1,0,0,,,True
+1434,1435,identical image,0.999,0,1,0,0,,,True
+959,960,identical image,0.998,0,1,1,1,7,7,True
+446,447,identical image,0.998,0,1,1,1,7 7 8,7 8 8 8,False
+1970,1971,identical image,0.997,0,1,0,0,,,True
+485,552,identical image,0.997,2,67,1,1,2 2 2 2 7,2 2 7,False
+317,318,identical image,0.997,2,1,1,1,2 2,2 2,True
+1725,1726,identical image,0.997,0,1,1,1,1 1,1 1,True
+1354,1355,identical image,0.996,0,1,0,0,,,True
+329,330,identical image,0.995,2,1,0,0,,,True
+776,777,identical image,0.995,0,1,1,1,2,2,True
+950,951,identical image,0.995,2,1,0,0,,,True
+327,328,identical image,0.994,0,1,1,1,4 4 4,4 4 4,True
+336,337,identical image,0.993,2,1,1,1,7,7,True
+934,935,identical image,0.993,0,1,1,1,7,7,True
+457,458,identical image,0.992,0,1,0,0,,,True
+968,969,identical image,0.991,0,1,0,0,,,True
+233,234,identical image,0.99,0,1,0,0,,,True
+1934,1935,identical image,0.989,2,1,0,0,,,True
+398,399,identical image,0.984,0,1,1,1,7,7,True
+985,986,identical image,0.983,2,1,1,1,3,3,True
+834,835,identical image,0.983,2,1,1,1,2,2,True
+1259,1319,not a duplicate,0.971,4,60,1,1,2 7,7,False
+4,297,not a duplicate,0.931,4,293,1,1,,2,False
+296,1137,not a duplicate,0.871,4,841,0,1,,7 8,False
+4,1137,not a duplicate,0.871,4,1133,1,1,,7 8,False
+315,1357,not a duplicate,0.863,4,1042,1,0,2,,False
+1483,1484,not a duplicate,0.847,4,1,1,1,2,2 2,False
+724,840,not a duplicate,0.828,4,116,1,1,2 8,8,False
+621,1635,not a duplicate,0.828,4,1014,1,1,7,2,False
+1302,1732,not a duplicate,0.792,2,430,0,1,,2 2 2,False
+1614,1863,not a duplicate,0.786,4,249,1,0,1,,False
+470,1227,not a duplicate,0.782,4,757,1,1,2 2 2 2,8,False
+469,1227,not a duplicate,0.782,4,758,1,1,2 2 2,8,False
+621,673,not a duplicate,0.775,4,52,1,1,7,4 4 4,False
+1178,1368,not a duplicate,0.763,4,190,1,1,4 4,2,False
+1336,1610,not a duplicate,0.76,4,274,1,0,5 7,,False
+796,1225,not a duplicate,0.72,4,429,1,1,2,2 7,False
+530,532,same exam (consecutive frame),0.98,4,2,1,1,7,7,True
+529,532,same exam (consecutive frame),0.978,2,3,1,1,7,7,True
+629,630,same exam (consecutive frame),0.975,2,1,1,1,7,7,False
+1937,1938,same exam (consecutive frame),0.975,4,1,1,1,2 2 2,2 2 2,True
+535,536,same exam (consecutive frame),0.974,4,1,1,1,,2 2,False
+627,628,same exam (consecutive frame),0.974,4,1,1,1,7 7,7,False
+405,406,same exam (consecutive frame),0.973,2,1,1,1,7 7,7 7,False
+530,531,same exam (consecutive frame),0.972,4,1,1,1,7,7,True
+1059,1060,same exam (consecutive frame),0.97,2,1,0,0,,,True
+1104,1105,same exam (consecutive frame),0.97,2,1,0,0,,,True
+925,926,same exam (consecutive frame),0.969,2,1,1,1,1,1,True
+1931,1932,same exam (consecutive frame),0.968,4,1,0,0,,,True
+761,763,same exam (consecutive frame),0.966,4,2,1,1,5,5,False
+894,895,same exam (consecutive frame),0.966,2,1,1,1,4 4,,False
+866,867,same exam (consecutive frame),0.965,4,1,1,1,,2,False
+497,498,same exam (consecutive frame),0.965,4,1,1,1,4 4 4,4,False
+512,513,same exam (consecutive frame),0.964,2,1,1,1,4 4,4 4,True
+541,542,same exam (consecutive frame),0.961,4,1,1,1,,,True
+893,894,same exam (consecutive frame),0.954,4,1,1,1,4 4 4,4 4,False
+539,540,same exam (consecutive frame),0.951,4,1,1,1,2,2 2,False
+220,222,same exam (consecutive frame),0.95,4,2,1,1,2 2 2 2,2 2 2 2,True
+320,321,same exam (consecutive frame),0.949,2,1,1,1,2,2 2,False
+963,964,same exam (consecutive frame),0.945,2,1,0,0,,,True
+1849,1850,same exam (consecutive frame),0.944,4,1,0,0,,,True
+540,542,same exam (consecutive frame),0.942,2,2,1,1,2 2,,False
+81,82,same exam (consecutive frame),0.938,4,1,1,1,1,1 7,False
+1196,1197,same exam (consecutive frame),0.932,4,1,1,1,2 7 7,2 2 2,False
+296,297,same exam (consecutive frame),0.931,4,1,0,1,,2,False
+1806,1809,same exam (consecutive frame),0.93,4,3,1,1,2,2,True
+1679,1680,same exam (consecutive frame),0.924,4,1,1,1,4 4 4,4 4,False
+506,507,same exam (consecutive frame),0.924,4,1,1,1,4 4 7 7 7,4 4 7,False
+1207,1209,same exam (consecutive frame),0.922,4,2,1,1,7,7,True
+1242,1243,same exam (consecutive frame),0.919,4,1,1,1,,,True
+1149,1150,same exam (consecutive frame),0.916,4,1,1,1,,,True
+1062,1063,same exam (consecutive frame),0.903,4,1,0,0,,,True
+127,128,same exam (consecutive frame),0.902,4,1,1,1,7 7,7,False
+1178,1179,same exam (consecutive frame),0.899,4,1,1,1,4 4,4,False
+144,145,same exam (consecutive frame),0.896,4,1,0,0,,,True
+1459,1460,same exam (consecutive frame),0.891,4,1,1,1,2,2,True
+1792,1793,same exam (consecutive frame),0.887,4,1,0,0,,,True
+1548,1549,same exam (consecutive frame),0.887,4,1,0,0,,,True
+1884,1885,same exam (consecutive frame),0.883,4,1,1,1,,,False
+778,780,same exam (consecutive frame),0.853,4,2,1,1,2,4 4 4 7,False
+528,532,unsure - check by eye,0.954,4,4,1,1,7,7,True
+1648,1667,unsure - check by eye,0.856,4,19,1,1,7 7,7 7,True
