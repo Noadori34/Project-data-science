@@ -12,3 +12,9 @@ __pycache__/
 .pytest_cache/
 .venv/
 logs/
+
+# private notes
+diary.md
+
+# raw data archives (too large for GitHub)
+*.zip
