@@ -1,0 +1,40 @@
+{
+  "experiment": "nb06crops",
+  "class_weighted": false,
+  "config": {
+    "seed": 42,
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 10,
+    "patience": 4,
+    "lr": 0.0001,
+    "weight_decay": 0.01
+  },
+  "reference_nb05": {
+    "pooled_auc": 0.8209,
+    "mean_fold_auc": 0.8278,
+    "fold_auc": [
+      0.8103,
+      0.826,
+      0.8275,
+      0.8256,
+      0.8494
+    ],
+    "tp": 1349,
+    "tn": 251,
+    "fp": 199,
+    "fn": 186
+  },
+  "pooled_metrics_youden": {
+    "auc": 0.8310343829171191,
+    "f1": 0.813386686067661,
+    "sensitivity": 0.7283387622149837,
+    "specificity": 0.7866666666666666,
+    "tp": 1118,
+    "tn": 354,
+    "fp": 96,
+    "fn": 417
+  },
+  "mean_fold_auc": 0.8319138487195922,
+  "std_fold_auc": 0.019676031423229868
+}
