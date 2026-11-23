@@ -1,0 +1,31 @@
+{
+  "experiment": "baseline",
+  "initialization": "imagenet",
+  "deployment_threshold_median": 0.8514113426208496,
+  "threshold_method": "youden",
+  "pooled_oof_metrics": {
+    "auc": 0.789260224393775,
+    "f1": 0.7927797833935019,
+    "sensitivity": 0.7153094462540717,
+    "specificity": 0.6955555555555556,
+    "fpr": 0.30444444444444446,
+    "tp": 1098,
+    "tn": 313,
+    "fp": 137,
+    "fn": 437
+  },
+  "historical_oracle_reference": 0.8577,
+  "config": {
+    "seed": 42,
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 6,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "workers": 0,
+    "threshold_method": "youden",
+    "preprocessing": "none",
+    "augmentation": "standard"
+  }
+}

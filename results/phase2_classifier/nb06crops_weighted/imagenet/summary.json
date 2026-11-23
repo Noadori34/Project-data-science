@@ -1,0 +1,59 @@
+{
+  "experiment": "nb06crops_weighted",
+  "class_weighted": true,
+  "config": {
+    "seed": 42,
+    "image_size": 224,
+    "batch_size": 16,
+    "epochs": 10,
+    "patience": 4,
+    "lr": 0.0001,
+    "weight_decay": 0.01
+  },
+  "reference_nb05": {
+    "pooled_auc": 0.8209,
+    "mean_fold_auc": 0.8278,
+    "fold_auc": [
+      0.8103,
+      0.826,
+      0.8275,
+      0.8256,
+      0.8494
+    ],
+    "tp": 1349,
+    "tn": 251,
+    "fp": 199,
+    "fn": 186
+  },
+  "pooled_metrics_youden": {
+    "auc": 0.8282656532754253,
+    "f1": 0.8258527827648114,
+    "sensitivity": 0.749185667752443,
+    "specificity": 0.7777777777777778,
+    "tp": 1150,
+    "tn": 350,
+    "fp": 100,
+    "fn": 385
+  },
+  "mean_fold_auc": 0.828387610092532,
+  "std_fold_auc": 0.030367083017632957,
+  "chosen_operating_point": {
+    "rule": "validation sensitivity >= 0.9",
+    "fold_thresholds": {
+      "0": 0.2245356142520904,
+      "1": 0.2478711456060409,
+      "2": 0.1999057233333587,
+      "3": 0.2738573849201202,
+      "4": 0.5046876668930054
+    },
+    "ensemble_threshold": 0.2478711456060409,
+    "auc": 0.8282656532754253,
+    "f1": 0.8798462031400193,
+    "sensitivity": 0.8944625407166124,
+    "specificity": 0.5266666666666666,
+    "tp": 1373,
+    "tn": 237,
+    "fp": 213,
+    "fn": 162
+  }
+}
