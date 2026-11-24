@@ -2,3 +2,12 @@
 .DS_Store
 .Rhistory
 .vscode/
+
+# Notebook 08: large training state stays on the cluster; only the backbone, history and comparison are committed.
+results/radimagenet_pretraining/*/last.pt
+results/radimagenet_pretraining/*/last.tmp
+results/radimagenet_pretraining/*/best.pt
+results/radimagenet_pretraining/*/image_index.csv
+results/radimagenet_pretraining/smoke_test/
+results/phase2_classifier/smoke_test/
+logs/
