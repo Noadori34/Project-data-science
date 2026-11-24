@@ -1,0 +1,7 @@
+,low,medium,high
+brightness · pathological (FN),0.131,0.094,0.092
+brightness · healthy (FP),0.413,0.527,0.48
+contrast · pathological (FN),0.16,0.1,0.057
+contrast · healthy (FP),0.387,0.507,0.527
+shadow · pathological (FN),0.129,0.076,0.111
+shadow · healthy (FP),0.48,0.527,0.413
