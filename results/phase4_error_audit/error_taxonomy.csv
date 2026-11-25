@@ -1,0 +1,8 @@
+cause,FN,FP,total,% of errors
+1. Conflicting label,0,1,1,0.3
+2. Segmentation failure / lesion cut off,11,3,14,3.7
+3. Minority view (view 1),8,18,26,6.9
+4. Small lesion,40,0,40,10.7
+5. Dark / low contrast / shadow,30,39,69,18.4
+6. Borderline (near threshold),6,11,17,4.5
+7. No evident cause,67,141,208,55.5

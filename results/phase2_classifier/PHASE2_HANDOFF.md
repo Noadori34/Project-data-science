@@ -71,7 +71,7 @@ Class-weighted was the pre-specified choice (task p2-t2). The unweighted run is 
 4. Weight decay 1e-4, 30 epochs, no LR schedule: overfitting.
 5. ImageNet mean/std normalization (notebook 05 uses [0, 1]).
 
-`baseline/`, `robust_augmentation/` and `sensitivity_target_analysis/` are superseded and kept for record.
+`baseline/` and `robust_augmentation/` (first attempt) are superseded; only their metrics and predictions are kept here for the comparison table in notebook 07, without checkpoints.
 
 ## Caveats and remaining work
 
