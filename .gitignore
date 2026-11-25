@@ -2,3 +2,19 @@
 .DS_Store
 .Rhistory
 .vscode/
+
+# Phase 2 segmentation: large or regenerable
+weights/
+results/checkpoints/
+results/cache/
+results/masks_png/
+__pycache__/
+.pytest_cache/
+.venv/
+logs/
+
+# private notes
+diary.md
+
+# raw data archives (too large for GitHub)
+*.zip
